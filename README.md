@@ -9,8 +9,11 @@ The dashboard tracks patient attendance trends and measures the percentage of pa
 ## Key Features
 
 • KPI indicators for latest performance, attendance, and waiting times
+
 • Trend analysis of total A&E attendances
+
 • Performance monitoring against NHS standards
+
 • Interactive filtering by quarter and year
 
 ## Tools Used
