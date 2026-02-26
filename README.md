@@ -26,9 +26,7 @@ The dashboard tracks patient attendance trends and measures the percentage of pa
 • Performance declined to 74% in the latest period
 • Results fall below the NHS 95% target
 
-## Preview
 
-![Dashboard Preview](dashboard.png)
 
 ## Data Source
 
