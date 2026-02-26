@@ -19,14 +19,19 @@ The dashboard tracks patient attendance trends and measures the percentage of pa
 ## Tools Used
 
 • Microsoft Excel
+
 • Pivot Tables
+
 • Pivot Charts
+
 • Dashboard Design
 
 ## Key Insights
 
 • A&E attendances increased significantly over time
+
 • Performance declined to 74% in the latest period
+
 • Results fall below the NHS 95% target
 
 
